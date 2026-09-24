@@ -1,0 +1,43 @@
+// ===== Code.gs — Tempel ke Extensions > Apps Script di Google Sheet =====
+// Sheet harus punya header baris 1: Timestamp | Nama | Ucapan | Kehadiran | Jumlah Tamu
+// Deploy: Deploy > New deployment > Web app > Execute as: Me, Who has access: Anyone
+
+const SHEET_NAME = "Sheet1"; // ganti jika nama sheet beda
+
+function doGet(e) {
+  const sh = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(SHEET_NAME);
+  const rows = sh.getDataRange().getValues();
+  const data = [];
+  for (let i = 1; i < rows.length; i++) {
+    if (!rows[i][1]) continue;
+    data.push({
+      timestamp: rows[i][0] instanceof Date ? rows[i][0].toISOString() : String(rows[i][0] || ""),
+      nama: String(rows[i][1] || ""),
+      ucapan: String(rows[i][2] || ""),
+      kehadiran: String(rows[i][3] || ""),
+      tamu: String(rows[i][4] || "1"),
+    });
+  }
+  data.reverse(); // terbaru di atas
+  return ContentService.createTextOutput(JSON.stringify({ ok: true, data: data }))
+    .setMimeType(ContentService.MimeType.JSON);
+}
+
+function doPost(e) {
+  try {
+    const b = JSON.parse(e.postData.contents);
+    const sh = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(SHEET_NAME);
+    sh.appendRow([
+      b.timestamp ? new Date(b.timestamp) : new Date(),
+      String(b.nama || ""),
+      String(b.ucapan || ""),
+      String(b.kehadiran || ""),
+      String(b.tamu || "1"),
+    ]);
+    return ContentService.createTextOutput(JSON.stringify({ ok: true }))
+      .setMimeType(ContentService.MimeType.JSON);
+  } catch (err) {
+    return ContentService.createTextOutput(JSON.stringify({ ok: false, error: String(err) }))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+}

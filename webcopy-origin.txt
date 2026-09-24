@@ -1,0 +1,1692 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\npm\html2canvas@1.4.1\dist\html2canvas.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\ajax\libs\jquery-easing\1.3\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Aref+Ruqaa:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant+Infant:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lexend:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Noto+Sans+Sora+Sompeng:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Pinyon+Script:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-9
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Sora:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\css-7
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/arefruqaa/v26/WwkbxPW1E165rajQKDulIIcoUA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\arefruqaa\v26\WwkbxPW1E165rajQKDulIIcoUA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arefruqaa/v26/WwkYxPW1E165rajQKDulKDwNQNUY3A.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\arefruqaa\v26\WwkYxPW1E165rajQKDulKDwNQNUY3A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI-rXvjprkA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI-rXvjprkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI1PQvjprkA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI1PQvjprkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI9PXvjprkA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI9PXvjprkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nIw3QvjprkA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nIw3QvjprkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nIz_QvjprkA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nIz_QvjprkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgdYNWUjj0.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgdYNWUjj0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgvYNWUjj0.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgvYNWUjj0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrhxYNWUjj0.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrhxYNWUjj0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrjIZ9WUjj0.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrjIZ9WUjj0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrjxZ9WUjj0.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\cormorantinfant\v22\HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrjxZ9WUjj0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC-URzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC-URzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC2UWzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC2UWzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC5IRzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC5IRzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC7sRzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC7sRzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC7sWzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC7sWzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WC9wRzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WC9wRzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCwkWzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WCwkWzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsWzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WCzsWzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsXzLdnfw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\lexend\v26\wlptgwvFAVdoq2_F94zlCfv0bz1WCzsXzLdnfw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR81_Dub3Y.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\notosanssorasompeng\v26\PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR81_Dub3Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO1_Dub3Y.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\notosanssorasompeng\v26\PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO1_Dub3Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0PDub3Y.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\notosanssorasompeng\v26\PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0PDub3Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0PDub3Y.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\notosanssorasompeng\v26\PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0PDub3Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\pinyonscript\v24\6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\s\sora\v17\xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://invitimo2.my.id/m03/
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\m03\index-1.htm
+Content Type: text/html
+
+Uri: https://invitimo2.my.id/m03/?post_id=6854&comments=30&get=500&order=DESC
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\m03\index-2.htm
+Content Type: text/html
+
+Uri: https://invitimo2.my.id/m03/?to=Tamu+Undangan
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\m03\index.htm
+Content Type: text/html
+
+Uri: https://invitimo2.my.id/wp-includes/css/dashicons.css?ver=7.1.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\css\dashicons.css
+Content Type: text/css
+
+Uri: https://invitimo2.my.id/wp-includes/js/dist/hooks.js?ver=f0f188028580e8dc1255
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\js\dist\hooks.js
+Content Type: text/javascript
+
+Uri: https://invitimo2.my.id/wp-includes/js/dist/i18n.js?ver=1dfe7db3940c23ea9216
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\js\dist\i18n.js
+Content Type: text/javascript
+
+Uri: https://invitimo2.my.id/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://invitimo2.my.id/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\js\jquery\jquery-migrate.js
+Content Type: text/javascript
+
+Uri: https://invitimo2.my.id/wp-includes/js/jquery/jquery.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\js\jquery\jquery.js
+Content Type: text/javascript
+
+Uri: https://invitimo2.my.id/wp-includes/js/jquery/ui/core.js?ver=1.14.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\js\jquery\ui\core.js
+Content Type: text/javascript
+
+Uri: https://invitimo2.my.id/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\js\masonry.min.js
+Content Type: text/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\beacon.min.js\v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/00993602ff718cd10b87d92496ac3752.css?ver=c3752
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\00993602ff718cd10b87d92496ac3752.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/01b59dbe8f8ed588b130211f9737b40d.css?ver=7b40d
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\01b59dbe8f8ed588b130211f9737b40d.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/08a82f07a4134d804d817783d2a794e4.css?ver=794e4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\08a82f07a4134d804d817783d2a794e4.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/09a75825d8e5768351db8180ad00abc1.css?ver=0abc1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\09a75825d8e5768351db8180ad00abc1.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/0f19aed2db2d71abda1068fcf5a7dda1.css?ver=7dda1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\0f19aed2db2d71abda1068fcf5a7dda1.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/1bcbd00554cb13a513a2d6b12c1848ca.css?ver=848ca
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\1bcbd00554cb13a513a2d6b12c1848ca.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/22b70d3c044cbfb738f8d7ccd29b5fa9.css?ver=b5fa9
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\22b70d3c044cbfb738f8d7ccd29b5fa9.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/24b60853521d22cd5c7428067606d5bf.css?ver=6d5bf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\24b60853521d22cd5c7428067606d5bf.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/24f12d6ff3e1243490c92abb0d8f133d.css?ver=f133d
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\24f12d6ff3e1243490c92abb0d8f133d.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/2934ef090596cd1d6c9b379554b3389e.css?ver=3389e
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\2934ef090596cd1d6c9b379554b3389e.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/2eaab106ad496ee274b758f8cfd8e062.css?ver=8e062
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\2eaab106ad496ee274b758f8cfd8e062.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/3106206735201e72c0a5f14966d21150.css?ver=21150
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\3106206735201e72c0a5f14966d21150.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/39fc4883157786232cc738a43a9d23be.css?ver=d23be
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\39fc4883157786232cc738a43a9d23be.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/3da7654ff5803577bc431290d1123cc2.css?ver=23cc2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\3da7654ff5803577bc431290d1123cc2.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/45bd64a455ed739a9fec5b51f9009818.css?ver=09818
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\45bd64a455ed739a9fec5b51f9009818.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/45f7f7af74d40382868a730a918ea446.css?ver=ea446
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\45f7f7af74d40382868a730a918ea446.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/57eb0d432808eca5061b09ed660e5b28.css?ver=e5b28
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\57eb0d432808eca5061b09ed660e5b28.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/5c7205ed7d4ad1915e7e9915f81b932a.css?ver=b932a
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\5c7205ed7d4ad1915e7e9915f81b932a.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/5d0e2269d7d3eab23b80fbb8771e7254.css?ver=e7254
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\5d0e2269d7d3eab23b80fbb8771e7254.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/619c1ff1ab02ef83c3d9323aac2793e4.css?ver=793e4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\619c1ff1ab02ef83c3d9323aac2793e4.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/63c47301c64a3bc9af1102d83f491f80.css?ver=91f80
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\63c47301c64a3bc9af1102d83f491f80.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/729b96baabaa98ee82bc2e755e7d7db8.css?ver=d7db8
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\729b96baabaa98ee82bc2e755e7d7db8.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/75c06e1a8678f8f2fe9991957b97e3e7.css?ver=7e3e7
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\75c06e1a8678f8f2fe9991957b97e3e7.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/7893b78554721cf464bf6680aa453b48.css?ver=53b48
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\7893b78554721cf464bf6680aa453b48.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/80aa11044e58cd85f53695caab7c4a82.css?ver=c4a82
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\80aa11044e58cd85f53695caab7c4a82.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/8283982fea522289c12fd248f3cfed75.css?ver=fed75
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\8283982fea522289c12fd248f3cfed75.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/839c00762b002824df8bcd35f52e02fb.css?ver=e02fb
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\839c00762b002824df8bcd35f52e02fb.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/87d70e85b666b959856da4d357906bd1.css?ver=06bd1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\87d70e85b666b959856da4d357906bd1.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/8c5b4d773d0106e6eca98cd4f3a98e54.css?ver=98e54
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\8c5b4d773d0106e6eca98cd4f3a98e54.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/952c4cb97e918543a3a3bec1a902184d.css?ver=2184d
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\952c4cb97e918543a3a3bec1a902184d.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/95918c6b2e5e44b3fe94f05e8abf4dc0.css?ver=f4dc0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\95918c6b2e5e44b3fe94f05e8abf4dc0.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/9bb704b8a0bd80a9a12d9843af5ba9a6.css?ver=ba9a6
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\9bb704b8a0bd80a9a12d9843af5ba9a6.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/a1b57068d461cb8f827b8b6b0d88c26b.css?ver=8c26b
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\a1b57068d461cb8f827b8b6b0d88c26b.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/a2c4e3a21b507cf7482fa23bf0d8482c.css?ver=8482c
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\a2c4e3a21b507cf7482fa23bf0d8482c.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/a6d1f0560a6f2f6df0b6fa428c1ead44.css?ver=ead44
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\a6d1f0560a6f2f6df0b6fa428c1ead44.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/b080a53317ed7b59839553c8103ca245.css?ver=ca245
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\b080a53317ed7b59839553c8103ca245.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/b09c7ec17e215663e0c07a2c1beab37b.css?ver=ab37b
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\b09c7ec17e215663e0c07a2c1beab37b.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/b16142220d591203853eff6e9c028162.css?ver=28162
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\b16142220d591203853eff6e9c028162.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/b270a7d60d14872a29364b6d0c1b0ee7.css?ver=b0ee7
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\b270a7d60d14872a29364b6d0c1b0ee7.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/b34ad9eec833f9b02fe8fe0973630591.css?ver=30591
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\b34ad9eec833f9b02fe8fe0973630591.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/b3583e82b16cb01dcced6b62456c9b43.css?ver=c9b43
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\b3583e82b16cb01dcced6b62456c9b43.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/b7df2b92846c21d0de43a86d66881103.css?ver=81103
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\b7df2b92846c21d0de43a86d66881103.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/bb05afb26f39aaa3eb197be965a0075e.css?ver=0075e
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\bb05afb26f39aaa3eb197be965a0075e.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/bbddee0e2cbafb4524fd7e621c641d90.css?ver=41d90
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\bbddee0e2cbafb4524fd7e621c641d90.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/be0defc63e95c49fcf918d6cbe4058b7.css?ver=058b7
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\be0defc63e95c49fcf918d6cbe4058b7.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/cfd91b1afa6717a8f50aa83162fac1fb.css?ver=ac1fb
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\cfd91b1afa6717a8f50aa83162fac1fb.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/d11ea82067498d09b64d2a7f9c73f823.css?ver=3f823
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\d11ea82067498d09b64d2a7f9c73f823.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/d3c60000168bd60bb2b6c508ce0b3373.css?ver=b3373
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\d3c60000168bd60bb2b6c508ce0b3373.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/d83d386940f8ee41cb1b5ff7d8b7bc68.css?ver=7bc68
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\d83d386940f8ee41cb1b5ff7d8b7bc68.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/d9dbc77cba30a21054ee68907dc52825.css?ver=52825
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\d9dbc77cba30a21054ee68907dc52825.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/db72323be32c526ac0259b3064661a9a.css?ver=61a9a
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\db72323be32c526ac0259b3064661a9a.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/e2abfbdee59a32f2fe9ca5997480a40b.css?ver=0a40b
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\e2abfbdee59a32f2fe9ca5997480a40b.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/e53480f5814cb5325d6f05669ed3328c.css?ver=3328c
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\e53480f5814cb5325d6f05669ed3328c.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/e679dd2250c432cf15cf40d2aaf879b8.css?ver=879b8
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\e679dd2250c432cf15cf40d2aaf879b8.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/eaaf17776b32ccd109bfa1adb0863426.css?ver=63426
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\eaaf17776b32ccd109bfa1adb0863426.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/eaea1868e6b9eed7c95a82316b2567b9.css?ver=567b9
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\eaea1868e6b9eed7c95a82316b2567b9.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/f1ecd991d3fe2be93cd297f13df7c23b.css?ver=7c23b
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\f1ecd991d3fe2be93cd297f13df7c23b.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/f2d5efe0788ef14e41ac7c02672ab989.css?ver=ab989
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\f2d5efe0788ef14e41ac7c02672ab989.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/f54855b60b0a000c944150498c81a3f4.css?ver=1a3f4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\f54855b60b0a000c944150498c81a3f4.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/f75caa9673ece908eba4c0e0adb98ee5.css?ver=98ee5
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\f75caa9673ece908eba4c0e0adb98ee5.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/f82f5bfde6cf5f9d53299febd08096d3.css?ver=096d3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\f82f5bfde6cf5f9d53299febd08096d3.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/f89c9cb3421d967df2794730341e4629.css?ver=e4629
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\f89c9cb3421d967df2794730341e4629.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/f9e2c0390170449f02d9f2bdbc4eb1eb.css?ver=eb1eb
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\f9e2c0390170449f02d9f2bdbc4eb1eb.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/css/fab9de84fb7fd1bba4d74c6df14b8f56.css?ver=c5665
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\css\fab9de84fb7fd1bba4d74c6df14b8f56.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/040ce94197e9a76896e5f09be783e571.js?ver=3e571
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\040ce94197e9a76896e5f09be783e571.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/051a23887bb76a428f4cfc30f318f8cd.js?ver=8f8cd
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\051a23887bb76a428f4cfc30f318f8cd.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/0728d7cc4ab3c6eefe3f99f76dba5147.js?ver=8b2bd
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\0728d7cc4ab3c6eefe3f99f76dba5147.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/089d2b6c1ec326e51ecb19a384a842ba.js?ver=842ba
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\089d2b6c1ec326e51ecb19a384a842ba.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/08ef9ced78cef52b96f3095f5250ec1b.js?ver=0ec1b
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\08ef9ced78cef52b96f3095f5250ec1b.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/14580d414296801fc9367a64cf1a4f21.js?ver=a4f21
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\14580d414296801fc9367a64cf1a4f21.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/15ae9c1c75727a77d6d681ede55a4c06.js?ver=3f2bc
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\15ae9c1c75727a77d6d681ede55a4c06.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/1ccb07d0476887b786e2c9f8583ce221.js?ver=c2cfb
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\1ccb07d0476887b786e2c9f8583ce221.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/1e19fee89ba36b1c650d65b9dafc5a0b.js?ver=c5a0b
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\1e19fee89ba36b1c650d65b9dafc5a0b.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/1e518e9199a6424ce3f2ff7f5b61dd81.js?ver=1dd81
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\1e518e9199a6424ce3f2ff7f5b61dd81.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/1f339b165297daffc667eb1c4ed3d54d.js?ver=3d54d
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\1f339b165297daffc667eb1c4ed3d54d.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/24de70233b8c90e8fb1328c96eabc678.js?ver=bc678
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\24de70233b8c90e8fb1328c96eabc678.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/252394832575bb188f2db03e3930de33.js?ver=0de33
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\252394832575bb188f2db03e3930de33.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/26c711d8b5d1e3fe90add2175bb0ca95.js?ver=0ca95
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\26c711d8b5d1e3fe90add2175bb0ca95.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/273e83669401c896a8d1286b0575444c.js?ver=5444c
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\273e83669401c896a8d1286b0575444c.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/2986479eb200854a73190aace7147bd4.js?ver=47bd4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\2986479eb200854a73190aace7147bd4.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/2d2b0f2c34da99023825b450d097b7e5.js?ver=7b7e5
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\2d2b0f2c34da99023825b450d097b7e5.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/309c01ecba3240a26c6748bfb9853be1.js?ver=53be1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\309c01ecba3240a26c6748bfb9853be1.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/30deed2d0b7cf9d229b65ff7a42ac03a.js?ver=576d2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\30deed2d0b7cf9d229b65ff7a42ac03a.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/3515c1a37ca780344e7798415b4cb1e7.js?ver=cb1e7
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\3515c1a37ca780344e7798415b4cb1e7.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/36e583e8dbcac012cc81f8c35750f45a.js?ver=0f45a
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\36e583e8dbcac012cc81f8c35750f45a.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/3de955f773247f846c627f90cc835640.js?ver=35640
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\3de955f773247f846c627f90cc835640.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/4ac125ed0c0fe2ad77bbd4626f8f9933.js?ver=f9933
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\4ac125ed0c0fe2ad77bbd4626f8f9933.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/570f8019e4c9774874edd9459a53a1ba.js?ver=3a1ba
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\570f8019e4c9774874edd9459a53a1ba.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/600bae1b29a6b0392abc2593345cab5c.js?ver=cab5c
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\600bae1b29a6b0392abc2593345cab5c.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/653919d331a7fa1a555a6c66a9752188.js?ver=52188
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\653919d331a7fa1a555a6c66a9752188.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/662ee96955a5afadfb9dd84bc9ec01db.js?ver=c01db
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\662ee96955a5afadfb9dd84bc9ec01db.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/7146afc3165c6c87d18ffdb705525d59.js?ver=25d59
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\7146afc3165c6c87d18ffdb705525d59.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/7660669dd8d674fa0a41b65732221fc2.js?ver=21fc2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\7660669dd8d674fa0a41b65732221fc2.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/870e34213493a672c3497cc7a9b72508.js?ver=72508
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\870e34213493a672c3497cc7a9b72508.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/89193d16ea6baebe671c2c824b273066.js?ver=73066
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\89193d16ea6baebe671c2c824b273066.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/9814fedab9edcc9c53142c2fddc9c0b5.js?ver=e86dd
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\9814fedab9edcc9c53142c2fddc9c0b5.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/a9ce51dc3d6b996950ccc21aa75ebc75.js?ver=ebc75
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\a9ce51dc3d6b996950ccc21aa75ebc75.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/ae362ec61ece50b6ee8911dc8f4182fa.js?ver=182fa
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\ae362ec61ece50b6ee8911dc8f4182fa.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/b619a84e2a6d365a1a916165095cffdc.js?ver=de10a
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\b619a84e2a6d365a1a916165095cffdc.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/c8bdfa73698dc240d5dfbc32d811454e.js?ver=1454e
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\c8bdfa73698dc240d5dfbc32d811454e.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/cb9fe44a8eee6d2528d5c8b43d7ae91d.js?ver=ae91d
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\cb9fe44a8eee6d2528d5c8b43d7ae91d.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/d68b9918a7947f1c80f15413d32eedb1.js?ver=eedb1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\d68b9918a7947f1c80f15413d32eedb1.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/d7bae8b4994d4ba4c4a0c80bc7f4d00d.js?ver=4d00d
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\d7bae8b4994d4ba4c4a0c80bc7f4d00d.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/d9d6c10523e51339f256c9a49bc6a234.js?ver=6a234
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\d9d6c10523e51339f256c9a49bc6a234.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/dbfb80fe03c8524f8c1a224b98e9364d.js?ver=9364d
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\dbfb80fe03c8524f8c1a224b98e9364d.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/e46d02acdc00caee96d188307418b703.js?ver=8b703
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\e46d02acdc00caee96d188307418b703.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/e9f48ba002883d3cd61d08de44ef6628.js?ver=f6628
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\e9f48ba002883d3cd61d08de44ef6628.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/litespeed/js/eec5b160a261216bab185bd231d6dad9.js?ver=6dad9
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\litespeed\js\eec5b160a261216bab185bd231d6dad9.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/betterdocs/assets/build/blocks/categorygrid/frontend.js?ver=a4a7e7ed1fd9a2aaf85a
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\betterdocs\assets\build\blocks\categorygrid\frontend.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/css/animations.css?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\css\animations.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/css/copy-to-clipboard.css?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\css\copy-to-clipboard.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/css/dynamic-visibility.css?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\css\dynamic-visibility.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/css/style.css?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\css\style.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/css/tooltip.css?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\css\tooltip.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/js/copy-to-clipboard.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\js\copy-to-clipboard.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/js/dynamic-select.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\js\dynamic-select.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/js/fix-background-loop.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\js\fix-background-loop.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/js/formatted-number.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\js\formatted-number.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/js/settings.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\js\settings.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/js/tooltip.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\js\tooltip.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/clipboard/clipboard.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\clipboard\clipboard.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/popperjs/popper.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\popperjs\popper.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/prismjs/prism-line-numbers.min.css?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\prismjs\prism-line-numbers.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/prismjs/prism-line-numbers.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\prismjs\prism-line-numbers.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/prismjs/prism-markup-templating.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\prismjs\prism-markup-templating.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/prismjs/prism-markup.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\prismjs\prism-markup.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/prismjs/prism-php.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\prismjs\prism-php.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/prismjs/prism.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\prismjs\prism.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/prismjs/prism.min.css?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\prismjs\prism.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/dynamic-content-for-elementor-new-version/assets/node/tippy.js/tippy-bundle.umd.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\dynamic-content-for-elementor-new-version\assets\node\tippy.js\tippy-bundle.umd.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor-pro\assets\css\conditionals\popup.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor-pro\assets\css\conditionals\transitions.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor-pro/assets/css/widget-countdown.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor-pro\assets\css\widget-countdown.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor-pro/assets/css/widget-gallery.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor-pro\assets\css\widget-gallery.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor-pro/assets/js/elements-handlers.js?ver=4.2.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor-pro\assets\js\elements-handlers.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=4.2.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor-pro\assets\js\frontend.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.js?ver=4.2.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/css/frontend.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\js\frontend-modules.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/js/frontend.js?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\js\frontend.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\js\webpack.runtime.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-shrink.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\fadeIn.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInDownLeft.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\rotateInDownLeft.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInDownRight.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\rotateInDownRight.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInUpLeft.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\rotateInUpLeft.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\animations\styles\zoomIn.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.css?ver=5.53.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.53.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.53.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.53.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.53.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.53.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.js?ver=4.2.4
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.min.css?ver=3.50.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.svg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.50.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.js?ver=3.50.0
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\happy-elementor-addons\assets\vendor\dom-purify\purify.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/jet-elements/assets/css/addons/jet-timeline.css?ver=2.9.2.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\jet-elements\assets\css\addons\jet-timeline.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.9.2.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\jet-elements\assets\css\jet-elements.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/jet-elements/assets/css/skin/jet-timeline.css?ver=2.9.2.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\jet-elements\assets\css\skin\jet-timeline.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/jet-elements/assets/js/addons/jet-timeline.js?ver=2.9.2.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\jet-elements\assets\js\addons\jet-timeline.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/jet-elements/assets/js/jet-elements.js?ver=2.9.2.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\jet-elements\assets\js\jet-elements.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/jet-elements/assets/js/lib/tweenjs/tweenjs.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\jet-elements\assets\js\lib\tweenjs\tweenjs.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.15.2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\jet-engine\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/unitegallery/js/unitegallery.min.js?ver=1.5.109
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\unlimited-elements-for-elementor-premium\assets_libraries\unitegallery\js\unitegallery.min.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/wds-feature-addons/assets/css/public-performance-guard.css?ver=0.4.0-alpha.65.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\wds-feature-addons\assets\css\public-performance-guard.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/wds-feature-addons/assets/js/done-for-you-theme-capture.js?ver=0.4.0-alpha.65.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\wds-feature-addons\assets\js\done-for-you-theme-capture.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/wds-feature-addons/assets/js/public-performance-guard.js?ver=0.4.0-alpha.65.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\wds-feature-addons\assets\js\public-performance-guard.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/wds-feature-addons/assets/js/rsvp-guard.js?ver=0.4.0-alpha.65.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\wds-feature-addons\assets\js\rsvp-guard.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/css/wds-elementor.css?ver=2.10.2.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\css\wds-elementor.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/js/wds-rsvp.js?ver=2.10.2.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\js\wds-rsvp.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/fonts/saicfont.eot?i08r8g
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\fonts\saicfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/fonts/saicfont.svg?i08r8g
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\fonts\saicfont.svg
+Content Type: image/svg+xml
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/fonts/saicfont.ttf?i08r8g
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\fonts\saicfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/fonts/saicfont.woff?i08r8g
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\fonts\saicfont.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/saic_lib.js?ver=2.10.2.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\saic_lib.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/saic_style.css?ver=2.10.2.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\saic_style.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/plugins/wpbits-addons-for-elementor/assets/css/frontend.min.css?ver=1.8.1
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\plugins\wpbits-addons-for-elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/themes/weddingsaas-wp/assets/css/reset.css?ver=2.0.11
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\themes\weddingsaas-wp\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/03.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\03.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/bca-150x50.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\bca-150x50.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/bca.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\bca.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/bg-card-03.jpg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\bg-card-03.jpg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/bni-150x50.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\bni-150x50.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/bni.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\bni.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/bri.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\bri.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/chip-ilustration.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\chip-ilustration.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/Garden-03-Ayat.jpg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\Garden-03-Ayat.jpg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/Garden-03-Bouquet.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\Garden-03-Bouquet.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/Garden-03-Couple-1.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\Garden-03-Couple-1.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/Garden-03-Couple-2.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\Garden-03-Couple-2.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/Garden-03-Fallback.jpg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\Garden-03-Fallback.jpg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/Garden-03-Overlay.jpg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\Garden-03-Overlay.jpg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/2024/10/The-Wedding.mp3
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2024\10\The-Wedding.mp3
+Content Type: audio/mpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/2025/06/INVITIMO.png
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2025\06\INVITIMO.png
+Content Type: image/png
+
+Uri: https://the.invisimple.id/wp-content/uploads/2025/12/LOTTIE-MOUSE-HITAM.json
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\2025\12\LOTTIE-MOUSE-HITAM.json
+Content Type: application/json
+
+Uri: https://the.invisimple.id/wp-content/uploads/ac_assets/uc_compact_image_theme/ug-theme-compact.js?ver=1.5.109
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\ac_assets\uc_compact_image_theme\ug-theme-compact.js
+Content Type: text/javascript
+
+Uri: https://the.invisimple.id/wp-content/uploads/elementor/css/post-370686.css?ver=1789842045
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\elementor\css\post-370686.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/uploads/elementor/css/post-7.css?ver=1789842049
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/uploads/elementor/css/post-7908.css?ver=1789842823
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\elementor\css\post-7908.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/uploads/elementor/css/post-913817.css?ver=1789842060
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\elementor\css\post-913817.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/291ebc13dd6538bae3ec7959b8d770dc/2024/10/img-sample-01-1-3.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\291ebc13dd6538bae3ec7959b8d770dc\2024\10\img-sample-01-1-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/4a5dabbb0367e947760bbfd565f04031/2025/09/INVITIMO.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\4a5dabbb0367e947760bbfd565f04031\2025\09\INVITIMO.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/85dc7996f092d5ad5a652fac6079bd57/2024/10/img-sample-01-10.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\85dc7996f092d5ad5a652fac6079bd57\2024\10\img-sample-01-10.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/85dc7996f092d5ad5a652fac6079bd57/2024/10/img-sample-01-11.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\85dc7996f092d5ad5a652fac6079bd57\2024\10\img-sample-01-11.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/85dc7996f092d5ad5a652fac6079bd57/2024/10/img-sample-01-12.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\85dc7996f092d5ad5a652fac6079bd57\2024\10\img-sample-01-12.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-10.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-10.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-12.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-12.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-2.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-3.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-4.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-7.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-8.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/jet-form-builder/e6fb52c108655e3dbb47bfeccce12131/2024/10/img-sample-01-9.jpeg
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\jet-form-builder\e6fb52c108655e3dbb47bfeccce12131\2024\10\img-sample-01-9.jpeg
+Content Type: image/jpeg
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/1557Aston-Script.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\1557Aston-Script.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/1557Aston-Script.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\1557Aston-Script.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/1730Creattion.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\1730Creattion.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/1730Creattion.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\1730Creattion.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/1737Short-Stack.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\1737Short-Stack.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/1737Short-Stack.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\1737Short-Stack.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/2565Thesignature.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\2565Thesignature.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/2565Thesignature.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\2565Thesignature.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/2929InvitajaFont.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\2929InvitajaFont.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/2929InvitajaFont.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\2929InvitajaFont.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/3186Editors-Light.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\3186Editors-Light.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/3186Editors-Light.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\3186Editors-Light.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/3646InvitajaFont.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\3646InvitajaFont.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/3646InvitajaFont.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\3646InvitajaFont.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/4802Arima-Madurai.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\4802Arima-Madurai.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/4802Arima-Madurai.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\4802Arima-Madurai.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/5958Luxury-07-Font.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\5958Luxury-07-Font.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/5958Luxury-07-Font.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\5958Luxury-07-Font.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/6250InvitajaFont.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\6250InvitajaFont.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/6250InvitajaFont.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\6250InvitajaFont.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/646Byte-Bounce.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\646Byte-Bounce.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/646Byte-Bounce.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\646Byte-Bounce.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/6948Candlefish.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\6948Candlefish.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/6948Candlefish.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\6948Candlefish.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/836Analogue.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\836Analogue.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/836Analogue.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\836Analogue.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/8733Delius.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\8733Delius.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/8733Delius.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\8733Delius.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/8978Grand-Amoura.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\8978Grand-Amoura.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/8978Grand-Amoura.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\8978Grand-Amoura.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/9282Talk-Comic.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\9282Talk-Comic.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/9282Talk-Comic.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\9282Talk-Comic.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/9846Guava-Candy.woff
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\9846Guava-Candy.woff
+Content Type: application/font-woff
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/9846Guava-Candy.woff2
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\9846Guava-Candy.woff2
+Content Type: font/woff2
+
+Uri: https://the.invisimple.id/wp-content/uploads/useanyfont/uaf.css?ver=1786431129
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
+
+Uri: https://the.invisimple.id/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://the.invisimple.id/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs
+File Name: C:\Downloaded Web Sites\invitimo2.my.id\@dotlottie\player-component@2.7.12\dist\dotlottie-player.mjs
+Content Type: text/javascript
+
