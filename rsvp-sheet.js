@@ -5,9 +5,9 @@
  *    const RSVP_SHEET_URL = "https://script.google.com/macros/s/XXXX/exec";
  * 3. Refresh halaman. Tanpa URL pun ucapan tetap tampil instan (tersimpan di browser).
  */
-const RSVP_SHEET_URL = "https://script.google.com/macros/s/AKfycbzhOiMzM9cLfSrl14uYTgk0aXtXIjqX7LY93vihvw7P_1apylJbBYifJczdcRkT2B-R/exec";
+const RSVP_SHEET_URL = "https://script.google.com/macros/s/AKfycbwW_W2-k-78MkXUic6-XGq2an_Md5lZo03hLOrfxLro1N9Ltw16-QvGMFea5a5dIgBN/exec";
 const RSVP_POST_ID = "6854";
-const RSVP_STORAGE_KEY = "wishes_6854_v1";
+const RSVP_STORAGE_KEY = "wishes_indri_amir_v1";
 var lastSendKey = "", lastSendAt = 0;
 var listOpen = false, ucapanCount = 0;
 
@@ -195,6 +195,11 @@ var listOpen = false, ucapanCount = 0;
   }
 
   function init() {
+    // Bersihkan cache ucapan lama dari tema sebelumnya agar reset total
+    try {
+      localStorage.removeItem("wishes_6854_v1");
+    } catch (e) {}
+
     // Matikan handler bawaan wds-rsvp.js (ajax ke WordPress lama yang sudah mati)
     try {
       if (window.jQuery) jQuery("body").off("submit", ".saic-container-form form");
