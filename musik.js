@@ -4,21 +4,33 @@
  */
 (function () {
   var opened = false;
-  // Capture di document = jalan SEBELUM handler lain, jadi flag siap saat lagu diputar.
-  document.addEventListener("click", function (e) {
+  function markOpened(e) {
     var t = e.target;
     if (t && t.closest && t.closest("#btn_open")) opened = true;
-  }, true);
+  }
+  document.addEventListener("click", markOpened, true);
+  document.addEventListener("touchstart", markOpened, true);
+  document.addEventListener("pointerdown", markOpened, true);
+
   function guard() {
     if (window.playAudio && !window.playAudio.__amsGuarded) {
       var orig = window.playAudio;
       var wrapped = function () {
         if (!opened) return undefined;
         var s = document.getElementById("song");
+        var res = orig.apply(this, arguments);
         if (s && (s.currentTime === 0 || s.currentTime < 10)) {
-          try { s.currentTime = 10; } catch (err) {}
+          try {
+            if (s.readyState >= 1) {
+              s.currentTime = 10;
+            } else {
+              s.addEventListener("loadedmetadata", function () {
+                try { s.currentTime = 10; } catch (err) {}
+              }, { once: true });
+            }
+          } catch (err) {}
         }
-        return orig.apply(this, arguments);
+        return res;
       };
       wrapped.__amsGuarded = true;
       window.playAudio = wrapped;

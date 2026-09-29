@@ -42,7 +42,7 @@ var listOpen = false, ucapanCount = 0;
   var css = document.createElement("style");
   css.textContent = [
     "#saic-wrap-comment-6854{display:block !important;}",
-    "#saic-container-comment-6854{display:none;list-style:none;margin:18px 0 0;padding:0 4px 0 0;max-height:380px;overflow-y:auto;scrollbar-width:thin;}",
+    "#saic-container-comment-6854{display:none;list-style:none;margin:18px 0 0;padding:0 4px 0 0;max-height:380px;overflow-y:auto;scrollbar-width:thin;-webkit-overflow-scrolling:touch;}",
     "#saic-container-comment-6854.wds-open{display:block;}",
     "#wds-toggle-ucapan{width:100%;margin-top:12px;padding:10px 14px;border-radius:999px;border:1px solid #B09B7B;background:transparent;color:#8a7a63;font-weight:700;font-size:14px;cursor:pointer;}",
     "#wds-toggle-ucapan:hover{background:#B09B7B;color:#fff;}",
